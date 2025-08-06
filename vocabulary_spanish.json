@@ -1,0 +1,362 @@
+[
+  {
+    "question": "Familia",
+    "answer": "Family"
+  },
+  {
+    "question": "Viaje",
+    "answer": "Trip"
+  },
+  {
+    "question": "Montañas",
+    "answer": "Mountains"
+  },
+  {
+    "question": "Clima",
+    "answer": "Weather"
+  },
+  {
+    "question": "Sol",
+    "answer": "Sun"
+  },
+  {
+    "question": "Coche",
+    "answer": "Car"
+  },
+  {
+    "question": "Borde del bosque",
+    "answer": "Forest edge"
+  },
+  {
+    "question": "Mochila",
+    "answer": "Backpack"
+  },
+  {
+    "question": "Prados",
+    "answer": "Meadows"
+  },
+  {
+    "question": "Flores",
+    "answer": "Flowers"
+  },
+  {
+    "question": "Fotos",
+    "answer": "Photos"
+  },
+  {
+    "question": "Caminata",
+    "answer": "Hike"
+  },
+  {
+    "question": "Horas",
+    "answer": "Hours"
+  },
+  {
+    "question": "Estacionamiento",
+    "answer": "Parking lot"
+  },
+  {
+    "question": "Madre",
+    "answer": "Mother"
+  },
+  {
+    "question": "Policía",
+    "answer": "Police"
+  },
+  {
+    "question": "Niños",
+    "answer": "Children"
+  },
+  {
+    "question": "Banco",
+    "answer": "Bench"
+  },
+  {
+    "question": "Miedo",
+    "answer": "Fear"
+  },
+  {
+    "question": "Solución",
+    "answer": "Solution"
+  },
+  {
+    "question": "Oficiales de policía",
+    "answer": "Police officers"
+  },
+  {
+    "question": "Coche de policía",
+    "answer": "Police car"
+  },
+  {
+    "question": "Información",
+    "answer": "Information"
+  },
+  {
+    "question": "Robos de coches",
+    "answer": "Car thefts"
+  },
+  {
+    "question": "Taxi",
+    "answer": "Taxi"
+  },
+  {
+    "question": "Camino",
+    "answer": "Path"
+  },
+  {
+    "question": "Pueblo",
+    "answer": "Village"
+  },
+  {
+    "question": "Padres",
+    "answer": "Parents"
+  },
+  {
+    "question": "Llamada",
+    "answer": "Call"
+  },
+  {
+    "question": "Ciudad",
+    "answer": "City"
+  },
+  {
+    "question": "Ventana",
+    "answer": "Window"
+  },
+  {
+    "question": "Reparación",
+    "answer": "Repair"
+  },
+  {
+    "question": "Problema",
+    "answer": "Problem"
+  },
+  {
+    "question": "Seguro",
+    "answer": "Insurance"
+  },
+  {
+    "question": "hermoso",
+    "answer": "beautiful"
+  },
+  {
+    "question": "verde",
+    "answer": "green"
+  },
+  {
+    "question": "cansado",
+    "answer": "tired"
+  },
+  {
+    "question": "triste",
+    "answer": "sad"
+  },
+  {
+    "question": "nuevo",
+    "answer": "new"
+  },
+  {
+    "question": "tranquilo",
+    "answer": "calm"
+  },
+  {
+    "question": "inseguro",
+    "answer": "unsure"
+  },
+  {
+    "question": "lejos",
+    "answer": "far"
+  },
+  {
+    "question": "agotado",
+    "answer": "exhausted"
+  },
+  {
+    "question": "robado",
+    "answer": "stolen"
+  },
+  {
+    "question": "otro",
+    "answer": "other"
+  },
+  {
+    "question": "roto",
+    "answer": "broken"
+  },
+  {
+    "question": "feliz",
+    "answer": "happy"
+  },
+  {
+    "question": "bueno",
+    "answer": "good"
+  },
+  {
+    "question": "hacer",
+    "answer": "to make"
+  },
+  {
+    "question": "conducir",
+    "answer": "to drive"
+  },
+  {
+    "question": "brillar",
+    "answer": "to shine"
+  },
+  {
+    "question": "estacionar",
+    "answer": "to park"
+  },
+  {
+    "question": "ir",
+    "answer": "to go"
+  },
+  {
+    "question": "caminar",
+    "answer": "to hike"
+  },
+  {
+    "question": "tener",
+    "answer": "to have"
+  },
+  {
+    "question": "caminar",
+    "answer": "to walk"
+  },
+  {
+    "question": "ver",
+    "answer": "to see"
+  },
+  {
+    "question": "tomar",
+    "answer": "to take"
+  },
+  {
+    "question": "durar",
+    "answer": "to last"
+  },
+  {
+    "question": "ser/estar",
+    "answer": "to be"
+  },
+  {
+    "question": "buscar",
+    "answer": "to search"
+  },
+  {
+    "question": "creer",
+    "answer": "to believe"
+  },
+  {
+    "question": "robar",
+    "answer": "to steal"
+  },
+  {
+    "question": "llamar",
+    "answer": "to call"
+  },
+  {
+    "question": "llorar",
+    "answer": "to cry"
+  },
+  {
+    "question": "sentarse",
+    "answer": "to sit"
+  },
+  {
+    "question": "esperar",
+    "answer": "to wait"
+  },
+  {
+    "question": "proteger",
+    "answer": "to protect"
+  },
+  {
+    "question": "quedarse",
+    "answer": "to stay"
+  },
+  {
+    "question": "pensar",
+    "answer": "to think"
+  },
+  {
+    "question": "necesitar",
+    "answer": "to need"
+  },
+  {
+    "question": "ayudar",
+    "answer": "to help"
+  },
+  {
+    "question": "venir",
+    "answer": "to come"
+  },
+  {
+    "question": "preguntar",
+    "answer": "to ask"
+  },
+  {
+    "question": "parecer",
+    "answer": "to look like"
+  },
+  {
+    "question": "dar",
+    "answer": "to give"
+  },
+  {
+    "question": "escribir",
+    "answer": "to write"
+  },
+  {
+    "question": "decir",
+    "answer": "to say"
+  },
+  {
+    "question": "explicar",
+    "answer": "to explain"
+  },
+  {
+    "question": "suceder",
+    "answer": "to happen"
+  },
+  {
+    "question": "sentir",
+    "answer": "to feel"
+  },
+  {
+    "question": "traer",
+    "answer": "to bring"
+  },
+  {
+    "question": "quedarse dormido",
+    "answer": "to fall asleep"
+  },
+  {
+    "question": "hablar",
+    "answer": "to speak"
+  },
+  {
+    "question": "obtener",
+    "answer": "to get"
+  },
+  {
+    "question": "encontrar",
+    "answer": "to find"
+  },
+  {
+    "question": "estar de pie",
+    "answer": "to stand"
+  },
+  {
+    "question": "saber",
+    "answer": "to know"
+  },
+  {
+    "question": "pagar",
+    "answer": "to pay"
+  },
+  {
+    "question": "abrir",
+    "answer": "to open"
+  }
+]
